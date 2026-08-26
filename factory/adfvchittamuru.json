@@ -1,0 +1,15 @@
+{
+	"name": "adfvchittamuru",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a674af80-d198-403e-91ef-146b247b2b6e",
+		"tenantId": "d13f3ac7-6e1a-456b-af23-594e53af417c"
+	}
+}
